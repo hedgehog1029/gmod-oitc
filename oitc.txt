@@ -1,0 +1,18 @@
+"oitc"
+{
+	"base"		"base"
+	"title"		"One in the Chamber"
+	"maps"		"^oitc_"
+	"menusystem"	"1"
+	"settings"
+	{
+		1
+		{
+			"name"		"oitc_melee"
+			"text"		"Melee Damage"
+			"help"		"Damage dealt by the melee weapon"
+			"type"		"Numeric"
+			"default"	"20"
+		}
+	}
+}
